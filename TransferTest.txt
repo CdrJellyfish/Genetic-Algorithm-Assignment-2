@@ -1,0 +1,61 @@
+TransferTest :
+TransferTest :
+0  Seed: 1388661597 Best tree AveFitness: 8.008276734610991 Tree Form:(((((scall - runqsz) / swrite) + 10.0) + (((((scall + scall) + pflt) / swrite) + 7.0) / ((((scall + scall) / swrite) / 7.0) / 7.0))) + ((((((scall + sread) / 7.0) * fork) - swrite) - swrite) / (((((lwrite / vflt) + 8.0) - exec) - swrite) - (((pgin % vflt) / vflt) * lread))))\\
+1  Seed: 1390657983 Best tree AveFitness: 3.5455189254398123 Tree Form:((8.0 * 9.0) + (((3.0 * 7.0) - (fork * 3.0)) + (((3.0 / ppgin) - (freemem % runqsz)) % (((3.0 / lread) - ((runqsz * runqsz) * (wchar / freeswap))) + ((3.0 - pgin) % (rchar * exec))))))\\
+2  Seed: 1392086173 Best tree AveFitness: 3.8925635140376347 Tree Form:(((((6.0 % scall) % ((swrite * (vflt - pgout)) * ((wchar + scall) - (1.0 - 1.0)))) + (swrite - (swrite - 8.0))) * ((6.0 % wchar) + (((7.0 % rchar) % (6.0 - freeswap)) / (((6.0 % scall) * (scall / fork)) / (atch - sread))))) + (((((swrite / sread) - (exec - 9.0)) % (exec - (freeswap / wchar))) * (swrite / (swrite - 5.0))) - (freemem % runqsz)))\\
+3  Seed: 1393729573 Best tree AveFitness: 4.941257766273996 Tree Form:(((9.0 * 10.0) % (((((freeswap / freemem) - (exec / pgin)) - ((6.0 / runqsz) / (atch - pgin))) + ((exec * swrite) / (2.0 + wchar))) - (exec % lread))) - (exec % pgscan))\\
+4  Seed: 1395193902 Best tree AveFitness: 4.064479165750378 Tree Form:(((((9.0 * 10.0) % freemem) % ((((lwrite / lwrite) % (atch - freeswap)) / runqsz) - ((scall - pflt) % ((fork / atch) * (freeswap + pgfree))))) % (((((pflt + 10.0) + (vflt - pgfree)) % (vflt - pgfree)) % pflt) - ((fork / pgscan) + (atch + freeswap)))) + (((((9.0 * 10.0) - (pgin % pflt)) - pflt) - (ppgin + ppgout)) * (((sread * 4.0) + 9.0) / ((8.0 * scall) - (lwrite - sread)))))\\
+5  Seed: 1397286907 Best tree AveFitness: 3.329415437287439 Tree Form:(((((((8.0 * 6.0) / 1.0) * 1.0) - fork) - ((((ppgin - exec) + pgfree) % pgin) % 4.0)) + ((0.0 - freemem) % runqsz)) + ((((((8.0 * 6.0) * 1.0) * 1.0) - fork) - ((((1.0 % ppgin) + ppgin) % pgin) / 4.0)) - fork))\\
+6  Seed: 1398901352 Best tree AveFitness: 3.4690871686726394 Tree Form:((((10.0 * 4.0) - fork) - fork) + ((((10.0 * 5.0) - runqsz) % (((freeswap / 8.0) - ((10.0 * 4.0) - fork)) - ((10.0 * 5.0) - runqsz))) + ((((10.0 - runqsz) - (vflt % vflt)) - (exec % pgin)) % (freemem / sread))))\\
+TransferTest :
+TransferTest :
+0  Seed: 1402173637 Best tree AveFitness: 4.955920853887346 Tree Form:(((6.0 * 8.0) - (ppgin / (6.0 % freeswap))) - ((((((fork + fork) % (10.0 - sread)) % (pgin * vflt)) % (((fork * fork) % (pgin * sread)) * (pgin * lread))) - (6.0 * 8.0)) + (runqsz % freemem)))\\
+1  Seed: 1403926186 Best tree AveFitness: 6.422062179176908 Tree Form:((9.0 * 10.0) % ((scall - freeswap) % (((freeswap * freeswap) / rchar) * (((fork * pgfree) / (vflt - freemem)) + ((9.0 / 10.0) / ((ppgin % 8.0) - 10.0))))))\\
+2  Seed: 1405046034 Best tree AveFitness: 5.895015352484658 Tree Form:((((10.0 + (8.0 * 10.0)) % ((2.0 - (2.0 % (pgin * fork))) * wchar)) % (((2.0 - (2.0 % (pgscan * atch))) * freemem) * ((2.0 - (2.0 % (fork + fork))) % pflt))) % (freeswap * ((freeswap * ((freemem * (fork - 4.0)) / rchar)) / runqsz)))\\
+3  Seed: 1406788429 Best tree AveFitness: 4.794062112703508 Tree Form:((scall / ((scall / (sread * 10.0)) * (sread / 9.0))) - (3.0 * (((fork - (scall / (sread * sread))) % (atch * (freeswap * (pgin - ppgin)))) + (sread / (freeswap - fork)))))\\
+4  Seed: 1408314593 Best tree AveFitness: 3.743977661006865 Tree Form:(((((9.0 - fork) % (((freeswap / ppgin) % (pgin + freeswap)) % (freeswap * freemem))) % (pgin * wchar)) - ((fork - 10.0) % ((((pgin - rchar) % (fork * freeswap)) - (pgscan - freeswap)) / (((rchar - lread) - (pgin % lwrite)) % (fork * wchar))))) - ((((0.0 - 8.0) % (pgin * scall)) % (freeswap / scall)) * (9.0 % freeswap)))\\
+5  Seed: 1410181816 Best tree AveFitness: 9.533170533170534 Tree Form:(10.0 * 9.0)\\
+6  Seed: 1411258790 Best tree AveFitness: 7.190977086243011 Tree Form:((8.0 * 10.0) + ((10.0 - exec) % ((((exec % swrite) - ((freeswap / fork) / (sread * sread))) % (((freeswap + atch) / (ppgout * pgscan)) * ((exec * pgscan) % (freeswap % exec)))) - (fork / 3.0))))\\
+7  Seed: 1413228239 Best tree AveFitness: 4.567670847195763 Tree Form:(((((((sread * 9.0) - (exec * scall)) - (lread - vflt)) - ((pflt - sread) / (fork * fork))) + ((swrite * 3.0) * (((sread * 9.0) + (swrite % freemem)) - (ppgin * fork)))) / (((swrite - runqsz) - (exec / scall)) * ((sread / 3.0) / (exec / exec)))) % (((exec / lwrite) - ((freeswap + 3.0) / ((exec - pgscan) * ((sread / pgfree) / (freeswap - lread))))) / ((((sread * 9.0) - (freemem % lwrite)) + (runqsz - exec)) - (ppgin * fork))))\\
+8  Seed: 1416054041 Best tree AveFitness: 3.3499637700938436 Tree Form:(((((10.0 % (freeswap - wchar)) - (fork + (freemem - (freemem - fork)))) % (pgout - (runqsz * freemem))) + (9.0 * 9.0)) / ((((8.0 - pgin) + (runqsz / (freemem - (ppgout - exec)))) + ((freeswap - (freemem / (exec - pgscan))) / (pgout + (runqsz - freemem)))) / ((freeswap - (freeswap / (freemem / (fork % lread)))) / (4.0 + (runqsz - freemem)))))\\
+9  Seed: 1417856431 Best tree AveFitness: 3.4617194446405706 Tree Form:((((9.0 * 10.0) - ((fork % rchar) - ((9.0 - 10.0) + (5.0 / lread)))) % (freeswap / sread)) - (((((fork % wchar) % ((pgin / freemem) * (sread * swrite))) % ((ppgin % exec) / (runqsz / freeswap))) % (((ppgin % scall) * (sread - swrite)) * (((ppgin % pgin) / (pgin / rchar)) * (ppgin % pgscan)))) % ((wchar - ppgout) % (wchar + atch))))\\
+
+
+**********************************
+
+AVERAGE TEST  
+= 5.3914539840603 sd: 1.8313587143285048
+Best tree seed: 1416054041 avgFitness: 3.3499637700938436 function: (((((10.0 % (freeswap - wchar)) - (fork + (freemem - (freemem - fork)))) % (pgout - (runqsz * freemem))) + (9.0 * 9.0)) / ((((8.0 - pgin) + (runqsz / (freemem - (ppgout - exec)))) + ((freeswap - (freemem / (exec - pgscan))) / (pgout + (runqsz - freemem)))) / ((freeswap - (freeswap / (freemem / (fork % lread)))) / (4.0 + (runqsz - freemem)))))
+**********************************
+
+TransferTest :
+0  Seed: 1458000029 Best tree AveFitness: 3.1815963432649683 Tree Form:(((((((pflt - pgout) + (fork + scall)) / (fork * scall)) - (pgin / 7.0)) + ((((10.0 * 7.0) + (9.0 % freemem)) - (fork - 10.0)) % (freeswap / 5.0))) % (exec - scall)) + (((((10.0 * 7.0) + ((pgin / atch) - (pgfree - 10.0))) - (fork / pgscan)) / (swrite % rchar)) - (0.0 + fork)))\\
+1  Seed: 1459728041 Best tree AveFitness: 3.681769588890828 Tree Form:(((((10.0 - fork) + (((9.0 + 5.0) - (fork + fork)) % (freemem / ppgin))) + (7.0 * 10.0)) % ((((runqsz - 5.0) * (fork - freeswap)) / (wchar * scall)) * (atch - freeswap))) % (((1.0 - runqsz) + ((((vflt / fork) / (exec + runqsz)) * (pgin + ppgout)) - (swrite / pgfree))) * ((10.0 - lwrite) * ((10.0 - pgout) * ((10.0 % fork) * ((pgscan - sread) - (pgin - freeswap)))))))\\
+2  Seed: 1461815656 Best tree AveFitness: 5.036957152126855 Tree Form:(((((((fork * 6.0) * (5.0 * sread)) + (sread % pgout)) + (((5.0 * 5.0) + (5.0 * 6.0)) * (sread * fork))) + (sread + pflt)) / (sread * fork)) % ((((((sread % sread) - (scall / sread)) - (ppgout / 6.0)) % (freeswap + pgin)) % (((pgfree + pgfree) % (rchar - pflt)) * ((freeswap % pgin) * ((5.0 * 5.0) + (5.0 * 6.0))))) + (freeswap - fork)))\\
+3  Seed: 1463954660 Best tree AveFitness: 3.567179800346825 Tree Form:(((((((10.0 - fork) + (10.0 * 3.0)) + (10.0 + 10.0)) + (10.0 + 7.0)) + (8.0 - fork)) + ((10.0 - fork) % ((10.0 - fork) - (((sread - freemem) - (exec - ppgin)) % (8.0 - fork))))) % (freeswap / ((((10.0 + atch) / (freeswap + lwrite)) * (runqsz * scall)) * (lwrite + ((swrite + sread) - (swrite * fork))))))\\
+4  Seed: 1465693520 Best tree AveFitness: 3.3928503723580143 Tree Form:((((8.0 * 6.0) + (8.0 - fork)) + ((((5.0 * 6.0) - (fork % ppgin)) + (8.0 - fork)) - (pgin / 6.0))) % ((atch - freeswap) / ((((8.0 - pgout) - (ppgout % sread)) * (runqsz * runqsz)) - (((atch - ppgin) % (scall * 6.0)) + ((8.0 * pgout) - (ppgout % sread))))))\\
+5  Seed: 1467451032 Best tree AveFitness: 4.02072274022758 Tree Form:(((((((2.0 / freeswap) * (lread - swrite)) - (swrite / freemem)) + (((exec / freeswap) / (lread - swrite)) - (runqsz % freemem))) + (6.0 * 8.0)) + (6.0 * 8.0)) - ((((pgout - 0.0) % (fork + pgin)) + ((((scall - pgout) / (sread - freeswap)) % (scall * ppgin)) + (((fork / pgout) % (pgin % pflt)) + (fork + fork)))) % (ppgin * pflt)))\\
+6  Seed: 1469915783 Best tree AveFitness: 6.8481736141019285 Tree Form:((scall / sread) + ((((((8.0 % rchar) - (exec % scall)) + (10.0 * 7.0)) % (((atch - freeswap) - (pgfree / runqsz)) * (freeswap / rchar))) % (((freemem % freeswap) * ((sread / lread) % (freeswap - lread))) * (((rchar - sread) + (sread - rchar)) % (atch + pgfree)))) % (((freemem % freeswap) * ((sread / pgscan) * (wchar - sread))) + (((rchar - sread) + (sread - rchar)) % (atch + runqsz)))))\\
+7  Seed: 1472328830 Best tree AveFitness: 4.80614358342699 Tree Form:(((((((freeswap / vflt) / (fork / 6.0)) / (scall + runqsz)) - (9.0 * 10.0)) - (9.0 / runqsz)) % (((((ppgin - pgfree) - (rchar + sread)) / (rchar - exec)) / (atch + exec)) - (exec + runqsz))) + (9.0 * 10.0))\\
+8  Seed: 1473450547 Best tree AveFitness: 3.9839563768757134 Tree Form:(((swrite * 8.0) / (((rchar * 0.0) + ((1.0 / 3.0) + ((freemem / swrite) + (vflt / swrite)))) + ((((freemem / swrite) % (scall - ppgout)) - (6.0 + freeswap)) + (((vflt / swrite) % (vflt * pgfree)) % (6.0 + swrite))))) + ((8.0 * 10.0) + (((1.0 / fork) - (pgin / 7.0)) + ((1.0 - fork) + ((pflt / sread) + (9.0 - fork))))))\\
+9  Seed: 1475304999 Best tree AveFitness: 4.335555984422454 Tree Form:(((((pflt + sread) / (sread * fork)) + ((10.0 * 8.0) % (lread - scall))) % ((((pgfree - sread) / (swrite * fork)) / ((runqsz - 8.0) - (runqsz - sread))) * ((freemem / sread) - (((pgscan / vflt) + (fork * freeswap)) - ((swrite % fork) + (freemem / freeswap)))))) + ((8.0 + sread) - (sread + exec)))\\
+
+
+**********************************
+
+AVERAGE TEST  
+= 4.285490555604215 sd: 1.0228634199684123
+Best tree seed: 1458000029 avgFitness: 3.1815963432649683 function: (((((((pflt - pgout) + (fork + scall)) / (fork * scall)) - (pgin / 7.0)) + ((((10.0 * 7.0) + (9.0 % freemem)) - (fork - 10.0)) % (freeswap / 5.0))) % (exec - scall)) + (((((10.0 * 7.0) + ((pgin / atch) - (pgfree - 10.0))) - (fork / pgscan)) / (swrite % rchar)) - (0.0 + fork)))
+**********************************
+
+TransferTest :
+0  Seed: 1458000029 Best tree AveFitness: 3.1815963432649683 Tree Form:(((((((pflt - pgout) + (fork + scall)) / (fork * scall)) - (pgin / 7.0)) + ((((10.0 * 7.0) + (9.0 % freemem)) - (fork - 10.0)) % (freeswap / 5.0))) % (exec - scall)) + (((((10.0 * 7.0) + ((pgin / atch) - (pgfree - 10.0))) - (fork / pgscan)) / (swrite % rchar)) - (0.0 + fork)))\\
+
+
+**********************************
+
+AVERAGE TEST  
+= 3.1815963432649683 sd: 0.0
+Best tree seed: 1458000029 avgFitness: 3.1815963432649683 function: (((((((pflt - pgout) + (fork + scall)) / (fork * scall)) - (pgin / 7.0)) + ((((10.0 * 7.0) + (9.0 % freemem)) - (fork - 10.0)) % (freeswap / 5.0))) % (exec - scall)) + (((((10.0 * 7.0) + ((pgin / atch) - (pgfree - 10.0))) - (fork / pgscan)) / (swrite % rchar)) - (0.0 + fork)))
+**********************************
+

@@ -1,0 +1,242 @@
+
+TESTING EPOCHS : 50
+
+
+**********************************
+
+AVERAGE OF EPOCHS TEST  50
+= 50.78595483102814
+Best tree seed: 1240055521 avgFitness: 41.080958856772355 function: ((((((rchar + freeswap) + (wchar * 8.0)) + (wchar - freemem)) + (wchar * 8.0)) + (wchar * 8.0)) / (wchar + freemem))
+**********************************
+
+TESTING EPOCHS : 100
+
+
+**********************************
+
+AVERAGE OF EPOCHS TEST  100
+= 29.302641434301545
+Best tree seed: 1240171723 avgFitness: 4.392643022466792 function: ((((((8.0 - fork) - (lread % lread)) - (freemem % 1.0)) % (freemem % 1.0)) + (8.0 - fork)) + ((((9.0 * exec) * ((8.0 / exec) + (sread - sread))) + ((8.0 - runqsz) % ((8.0 / exec) / (sread - sread)))) % (freeswap / runqsz)))
+**********************************
+
+TESTING EPOCHS : 200
+
+
+**********************************
+
+AVERAGE OF EPOCHS TEST  200
+= 23.324958712634732
+Best tree seed: 1241116306 avgFitness: 5.0740273636501945 function: ((((9.0 * 5.0) + (1.0 - exec)) + (9.0 * 5.0)) % (freeswap / runqsz))
+**********************************
+
+TESTING EPOCHS : 400
+
+
+**********************************
+
+AVERAGE OF EPOCHS TEST  400
+= 38.56972117839807
+Best tree seed: 1241298749 avgFitness: 4.7721673317773625 function: ((((((freemem - freemem) - (exec % freeswap)) + (freemem * freemem)) + (9.0 * freemem)) % (freemem - 6.0)) + (10.0 / (runqsz + (exec * (runqsz + (fork * lread))))))
+**********************************
+
+TESTING EPOCHS : 800
+
+
+**********************************
+
+AVERAGE OF EPOCHS TEST  800
+= 28.79020892468451
+Best tree seed: 1242421165 avgFitness: 5.1057800055912415 function: ((((sread + 9.0) - (exec - 6.0)) + ((((6.0 + 4.0) + (6.0 * 4.0)) - (sread - 8.0)) + ((6.0 + 4.0) + (6.0 * 4.0)))) % (freeswap / ((((6.0 + 4.0) + (6.0 / wchar)) - (exec - 6.0)) - (((runqsz * runqsz) * (9.0 * runqsz)) + (scall / lread)))))
+**********************************
+
+
+
+
+Testing size variability :
+
+TESTING SIZE : 200
+
+
+**********************************
+
+AVERAGE OF SIZE TEST  200
+= 10.839581370509004
+Best tree seed: 1244810232 avgFitness: 3.7211901152593287 function: ((((((2.0 / fork) + (8.0 * 9.0)) - (sread / freemem)) + (8.0 - fork)) + (8.0 - fork)) % (freeswap / runqsz))
+**********************************
+
+TESTING SIZE : 400
+
+
+**********************************
+
+AVERAGE OF SIZE TEST  400
+= 5.957589770554874
+Best tree seed: 1253489987 avgFitness: 3.606922924734352 function: ((((((5.0 - fork) + (3.0 ^ 4.0)) - (sread / freemem)) + ((3.0 + 4.0) / (5.0 * fork))) - (fork - 3.0)) - (((((5.0 - fork) + (3.0 ^ 4.0)) - (sread / freemem)) + (((3.0 + 4.0) + (5.0 + fork)) / (5.0 * fork))) % (rchar / freeswap)))
+**********************************
+
+TESTING SIZE : 800
+
+
+
+Testing Depth variability :
+
+TESTING DEPTH : 3
+
+
+**********************************
+
+AVERAGE OF DEPTH TEST  3
+= 48.29083881666669
+Best tree seed: 1290566482 avgFitness: 9.274725274725276 function: (9.0 * 10.0)
+**********************************
+
+TESTING DEPTH : 4
+
+
+**********************************
+
+AVERAGE OF DEPTH TEST  4
+= 38.768091531571045
+Best tree seed: 1290771277 avgFitness: 5.316846644972483 function: (((fork - scall) / (((3.0 - fork) + (freeswap + freeswap)) + (exec % fork))) + (((3.0 / fork) + (10.0 * 8.0)) + (3.0 - fork)))
+**********************************
+
+TESTING DEPTH : 5
+
+
+**********************************
+
+AVERAGE OF DEPTH TEST  5
+= 39.3352133477688
+Best tree seed: 1291032778 avgFitness: 9.274725274725276 function: (10.0 * 9.0)
+**********************************
+
+TESTING DEPTH : 6
+
+
+**********************************
+
+AVERAGE OF DEPTH TEST  6
+= 31.617105328526115
+Best tree seed: 1291348060 avgFitness: 5.756618957708434 function: (((8.0 + 10.0) % ((8.0 * 10.0) + (((exec % exec) + (8.0 + 10.0)) + ((fork / freeswap) - (freemem + 10.0))))) + (((((10.0 / exec) - (runqsz - 10.0)) / (8.0 % freeswap)) % (((8.0 / 10.0) + (8.0 - 10.0)) + ((8.0 + 10.0) + ((8.0 / swrite) - (freemem + 10.0))))) + ((((10.0 / fork) - (exec - 10.0)) / (8.0 % scall)) + (((exec / sread) + (8.0 + 10.0)) + (((10.0 % freeswap) + (8.0 + 10.0)) + (8.0 + 10.0))))))
+**********************************
+
+TESTING DEPTH : 7
+
+
+**********************************
+
+AVERAGE OF DEPTH TEST  7
+= 39.23507955105238
+Best tree seed: 1292722331 avgFitness: 4.779927853974526 function: (((5.0 * 6.0) + ((((5.0 - 9.0) + ((5.0 + 9.0) % ((5.0 - 6.0) - (scall * runqsz)))) + ((5.0 * 9.0) + (((9.0 + freemem) - (3.0 + fork)) / (rchar + runqsz)))) / ((3.0 * fork) + (3.0 - fork)))) + ((5.0 * 9.0) + ((5.0 - runqsz) % (((freemem - runqsz) + (lwrite % 2.0)) % ((5.0 * wchar) - ((5.0 + 9.0) / ((fork - 9.0) + (scall / runqsz))))))))
+**********************************
+
+
+
+
+Testing gSplit variability :
+
+TESTING GSPLIT : 0.30000000000000004
+
+
+**********************************
+
+AVERAGE OF GSPLIT TEST  0.30000000000000004
+= 28.407007728858446
+Best tree seed: 1293342907 avgFitness: 6.613894706320525 function: (((10.0 * freeswap) % ((2.0 * freeswap) / ((scall * freeswap) / (10.0 - freeswap)))) + (((10.0 * freeswap) - (freemem - freeswap)) / (scall - freeswap)))
+**********************************
+
+TESTING GSPLIT : 0.4
+
+
+**********************************
+
+AVERAGE OF GSPLIT TEST  0.4
+= 46.15085321425508
+Best tree seed: 1293833143 avgFitness: 30.45078675213745 function: ((scall / swrite) + ((scall / swrite) + ((scall / sread) + ((freeswap / wchar) % ((8.0 + swrite) % (freeswap / freemem))))))
+**********************************
+
+TESTING GSPLIT : 0.5
+
+
+**********************************
+
+AVERAGE OF GSPLIT TEST  0.5
+= 21.77240481114815
+Best tree seed: 1294431466 avgFitness: 5.246495729173569 function: ((((((8.0 % rchar) * 10.0) + 10.0) + 1.0) - exec) % freeswap)
+**********************************
+
+TESTING GSPLIT : 0.6
+
+
+**********************************
+
+AVERAGE OF GSPLIT TEST  0.6
+= 32.0729483214697
+Best tree seed: 1294765554 avgFitness: 4.049679135582086 function: ((4.0 - fork) + (((((9.0 * 3.0) + (freemem - fork)) + ((9.0 * 3.0) - (fork - 8.0))) + ((9.0 * 3.0) % (freeswap / runqsz))) % ((freemem / wchar) - (freemem % freeswap))))
+**********************************
+
+TESTING GSPLIT : 0.7
+
+
+**********************************
+
+AVERAGE OF GSPLIT TEST  0.7
+= 18.52636585511076
+Best tree seed: 1296172130 avgFitness: 3.9271574625183674 function: ((((((9.0 * 5.0) - (fork % lread)) - (9.0 + runqsz)) + ((9.0 * 5.0) - (fork - 5.0))) % ((((1.0 + freeswap) / (freemem / fork)) - (9.0 + freeswap)) + (freeswap % swrite))) + (10.0 - fork))
+**********************************
+
+
+
+
+Testing tSplit variability :
+
+TESTING TSPLIT : 0.4
+
+
+**********************************
+
+AVERAGE OF TSPLIT TEST  0.4
+= 38.448456627382626
+Best tree seed: 1296323774 avgFitness: 6.709664292980672 function: ((((((freeswap - swrite) * freeswap) + 10.0) * 9.0) % freeswap) % freeswap)
+**********************************
+
+TESTING TSPLIT : 0.5
+
+
+**********************************
+
+AVERAGE OF TSPLIT TEST  0.5
+= 32.52859190281971
+Best tree seed: 1297065232 avgFitness: 6.605397827796543 function: ((10.0 * 4.0) + ((10.0 - fork) + ((6.0 / lread) + ((10.0 + 4.0) + ((10.0 - fork) + (10.0 + 5.0))))))
+**********************************
+
+TESTING TSPLIT : 0.6
+
+
+**********************************
+
+AVERAGE OF TSPLIT TEST  0.6
+= 31.248941647683534
+Best tree seed: 1297773466 avgFitness: 5.514940319640505 function: (((8.0 * 10.0) - (fork - 9.0)) / (((10.0 / freeswap) / (10.0 / freeswap)) + (runqsz / freeswap)))
+**********************************
+
+TESTING TSPLIT : 0.7
+
+
+**********************************
+
+AVERAGE OF TSPLIT TEST  0.7
+= 24.842633832950263
+Best tree seed: 1298252711 avgFitness: 3.7122203506108384 function: ((((10.0 * 7.0) + (((10.0 + 7.0) + (freeswap + 7.0)) - (10.0 / 7.0))) + ((((10.0 / fork) - (exec + exec)) - (sread / 4.0)) / (((1.0 / rchar) + (runqsz + 7.0)) - (sread / wchar)))) % (freeswap / swrite))
+**********************************
+
+TESTING TSPLIT : 0.7999999999999999
+
+
+**********************************
+
+AVERAGE OF TSPLIT TEST  0.7999999999999999
+= 24.494443816023875
+Best tree seed: 1298605472 avgFitness: 3.9799145330130252 function: (((((9.0 - runqsz) - (9.0 % 6.0)) % (((9.0 - runqsz) + (9.0 % 6.0)) % (rchar + freeswap))) + ((9.0 - fork) % (fork * freeswap))) + (((((9.0 * 6.0) + (9.0 % freemem)) + ((9.0 - fork) % (swrite - freemem))) + ((9.0 - fork) % (freeswap - swrite))) % (fork - freeswap)))
+**********************************
+

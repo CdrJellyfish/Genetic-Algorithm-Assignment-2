@@ -1,0 +1,47 @@
+FinalTests :
+0&1300405153&33.32308710009976&((((((((rchar + freeswap) - (lread * runqsz)) + (wchar * 8.0)) + (wchar * 8.0)) + (9.0 * wchar)) + (9.0 * wchar)) / (scall + wchar)) % (((((((freeswap + freeswap) - (9.0 + wchar)) + ((swrite - sread) * (swrite + 10.0))) + (wchar + 5.0)) + (9.0 * wchar)) / (9.0 * wchar)) - (((sread - sread) - (swrite + 10.0)) - (swrite + 10.0))))\\
+1&1300854687&4.539700386576051&(((((10.0 + (8.0 * 9.0)) % ((exec - fork) * wchar)) + (3.0 / fork)) % ((((sread + (freeswap * freeswap)) / ((swrite + (fork * fork)) + wchar)) * freeswap) + (fork % runqsz))) - (fork % 0.0))\\
+2&1301337183&6.422059422059422&((10.0 * 9.0) % (((((rchar - ((lwrite / 7.0) / lread)) ^ ((freeswap - scall) - (fork * sread))) * ((fork + ((scall * swrite) - exec)) - (freemem / freeswap))) - ((((freeswap / runqsz) / wchar) / runqsz) / wchar)) * (freeswap / rchar)))\\
+3&1301872128&9.533170533170534&(10.0 * 9.0)\\
+4&1302211420&4.193575288033645&(((6.0 + (9.0 * (((9.0 + (1.0 / lread)) % (rchar % freeswap)) % (lwrite + scall)))) % (freeswap / 3.0)) - (fork + fork))\\
+5&1302566502&42.515409152373465&((sread / runqsz) % ((((freeswap + freeswap) / ((runqsz - lread) - (wchar - runqsz))) - (((lread + 1.0) / ((sread / freemem) + (runqsz + lread))) * ((((wchar - runqsz) + (3.0 / exec)) % (9.0 * 7.0)) + (lread - freemem)))) + (exec - freemem)))\\
+FinalTests :
+0&1296906895&6.158607163058245&((9.0 * 10.0) % ((((((fork - runqsz) % (fork * fork)) - (fork - runqsz)) % (((freeswap / scall) / rchar) * freeswap)) * (((((fork - runqsz) % (exec * fork)) - (fork - runqsz)) % (((freeswap / freeswap) - runqsz) * freeswap)) * freeswap)) * freeswap))\\
+1&1297511262&5.69352262130827&(((10.0 - fork) - ((freemem / (swrite - freeswap)) * (freemem % scall))) + (((10.0 - fork) + ((10.0 + fork) - (wchar - wchar))) + ((((10.0 - fork) % (exec * freeswap)) % ((swrite ^ (sread * sread)) + ((10.0 % 10.0) + (10.0 + 10.0)))) + ((runqsz ^ (sread - sread)) + (((10.0 - fork) % (exec * freeswap)) + ((swrite ^ (sread - sread)) + ((10.0 + 10.0) + (10.0 + 10.0))))))))\\
+2&1298420408&19.230481941180287&((((scall / swrite) + ((((scall / swrite) % (scall % freeswap)) % (((scall + fork) - (lread / freeswap)) % (scall - scall))) % ((swrite / exec) + (((freemem / sread) % (rchar / freeswap)) % ((runqsz * swrite) + (scall - freeswap)))))) + ((((freemem / swrite) + (((scall - swrite) % (freeswap / scall)) % ((exec - lread) - (freeswap + lread)))) + (freemem % swrite)) / (scall / swrite))) + (scall / swrite))\\
+3&1299212095&42.80382968830532&(((((sread / runqsz) % (wchar / swrite)) % (((lwrite % lread) + (freemem - lread)) % (freeswap / swrite))) % ((freeswap / freemem) - ((((sread / runqsz) % (wchar / swrite)) - ((freeswap / lwrite) % ((freeswap + scall) / (wchar + swrite)))) % ((wchar / fork) - (freeswap * 1.0))))) % ((freeswap / scall) - ((((sread / runqsz) % (wchar / swrite)) % ((freeswap / scall) % ((rchar / swrite) + ((sread - sread) + (freemem - 9.0))))) % ((freeswap / rchar) - ((lread - freemem) % (wchar + swrite))))))\\
+4&1300313556&12.421245421245422&(10.0 * 8.0)\\
+5&1300752294&3.523126094815737&(((8.0 * (((rchar % (freeswap / (fork - freeswap))) - (10.0 / (runqsz - swrite))) + (10.0 % freeswap))) + freeswap) % (freeswap * (freeswap / ((fork + (exec - 8.0)) - (freeswap - (fork - freeswap))))))\\
+6&1301674905&30.91646872523997&((((((((10.0 % scall) + (scall / swrite)) % ((freeswap / wchar) + (swrite / exec))) + (scall / swrite)) % ((scall + wchar) / lread)) + (scall / swrite)) % (((9.0 - 7.0) - (swrite / swrite)) * (freeswap / freemem))) % (((freeswap / wchar) + (freemem % 0.0)) - (((((wchar + freeswap) - (lread % scall)) * exec) * (freemem / swrite)) / ((runqsz * scall) + freeswap))))\\
+7&1302793897&3.9299198304724228&((10.0 * 10.0) - ((fork + ((fork + ((9.0 + (freemem % runqsz)) % ((swrite / 3.0) * (runqsz * fork)))) % (((scall * wchar) * (4.0 - lread)) * (exec % scall)))) % ((wchar - lwrite) * ((1.0 + lread) % (4.0 - lread)))))\\
+8&1303656088&19.311284386933693&((((5.0 % ((4.0 - ((lwrite % rchar) + (swrite / runqsz))) * (swrite * (freeswap - runqsz)))) / (swrite % (freemem - ((exec - lread) * (freemem * wchar))))) ^ ((wchar / (freeswap / fork)) % (runqsz - runqsz))) + (((5.0 % ((4.0 - ((lwrite % rchar) + (swrite / runqsz))) * (swrite * (freeswap - runqsz)))) % ((4.0 - ((swrite % runqsz) / (swrite % wchar))) - (freemem % (freeswap + fork)))) / ((swrite / scall) - (10.0 / ((1.0 * freeswap) / (fork - scall))))))\\
+9&1304985299&48.876475376475376&((sread / 4.0) / ((runqsz - runqsz) ^ (((((4.0 / exec) - ((sread % scall) * (sread % scall))) - ((sread - (5.0 % lread)) * (sread - 4.0))) + (((scall / freemem) / (wchar - fork)) - (runqsz - freeswap))) - ((sread + (exec * lread)) * (sread - 4.0)))))\\
+
+
+**********************************
+
+AVERAGE TEST  
+= 19.286496124903472 sd: 15.660275219332062
+Best tree seed: 1300752294 avgFitness: 3.523126094815737 function: (((8.0 * (((rchar % (freeswap / (fork - freeswap))) - (10.0 / (runqsz - swrite))) + (10.0 % freeswap))) + freeswap) % (freeswap * (freeswap / ((fork + (exec - 8.0)) - (freeswap - (fork - freeswap))))))
+**********************************
+
+FinalTests :
+0&1306483328&6.630107538438602&(((((((freemem - 6.0) - (sread / freemem)) % ((fork - 5.0) * (freeswap * 5.0))) - (fork + fork)) % ((((freeswap - 5.0) - (freemem % 5.0)) % (scall - scall)) * (((wchar - wchar) % (freemem * fork)) % (lread - lwrite)))) - (fork - freemem)) % ((freemem - 5.0) - (9.0 * 5.0)))\\
+1&1306688143&4.679557792549405&(((10.0 + (5.0 / swrite)) * (10.0 % 0.0)) - ((((((fork + fork) * 1.0) - 3.0) + runqsz) % rchar) % (freemem - runqsz)))\\
+2&1306915479&38.655960285000056&(((((sread / fork) % ((wchar - lwrite) - ((lread % 7.0) - (freeswap - scall)))) % (((swrite - swrite) * ((exec + lwrite) - (lwrite + lwrite))) + ((freeswap / scall) + (swrite - 0.0)))) % ((((swrite - freeswap) * ((exec - lwrite) - (lwrite + lwrite))) * ((freeswap / scall) + (swrite - wchar))) - ((wchar / scall) - (runqsz / scall)))) % (((swrite / 0.0) + ((freeswap / scall) / (swrite + runqsz))) - (((swrite + fork) - ((lread % 7.0) / (freeswap - scall))) / (((swrite - 0.0) + (freeswap / scall)) / (((swrite % 0.0) - (freeswap / wchar)) - (freeswap / rchar))))))\\
+3&1307215569&10.099189107096052&(((((runqsz % freeswap) * (6.0 * 9.0)) - ((((6.0 - 9.0) / (runqsz - lwrite)) + ((scall / freemem) + swrite)) - (exec * 10.0))) + (((runqsz % 7.0) * (6.0 * 9.0)) + (((0.0 / scall) + ((fork * 9.0) + swrite)) + ((fork / 9.0) * ((freemem / sread) + sread))))) / (fork + runqsz))\\
+4&1307534455&43.499348202321436&(swrite % (((((swrite - freeswap) + (sread / swrite)) / (10.0 - swrite)) / (9.0 - swrite)) + (((((scall - freeswap) + (10.0 * scall)) - (lread + swrite)) / (sread * lread)) % (lread - swrite))))\\
+5&1307701616&10.367716213592962&((9.0 + 10.0) + ((((((scall - wchar) * (wchar - lread)) * ((lwrite + wchar) + (lwrite - fork))) - (scall % lwrite)) ^ ((wchar % wchar) / (sread * freeswap))) + ((((10.0 % freeswap) + (10.0 % freeswap)) + (((scall / sread) + (10.0 % freeswap)) + ((wchar / wchar) / (exec * lwrite)))) + (((10.0 % freeswap) + (10.0 % rchar)) % (((sread / swrite) - (9.0 - freeswap)) / ((wchar / wchar) + (sread + runqsz)))))))\\
+6&1308000189&53.72174262959251&(((sread / lread) + lwrite) + 8.0)\\
+7&1308139074&40.20087646354742&((sread / 2.0) % (((((freemem - sread) / (8.0 - exec)) + (freemem - fork)) / (sread / 2.0)) + (((lread - swrite) / (swrite + fork)) - ((freeswap / 3.0) / (sread * 10.0)))))\\
+8&1308303564&44.0012272899607&((((swrite % freemem) / fork) - ((fork * fork) / ((0.0 - 2.0) % freemem))) % (((swrite % freeswap) + exec) % ((((swrite - rchar) - (runqsz + wchar)) / (((swrite + runqsz) - lread) % ((freemem * rchar) * sread))) % freeswap)))\\
+9&1308620813&5.011773194722571&((10.0 * (10.0 % freeswap)) - (6.0 + (((((lread - sread) - (freeswap + swrite)) - (freeswap - exec)) - (freeswap + sread)) / ((((lwrite - swrite) / (scall - 8.0)) / (5.0 / sread)) - (freeswap / fork)))))\\
+
+
+**********************************
+
+AVERAGE TEST  
+= 25.686749871682174 sd: 18.780540701124455
+Best tree seed: 1306688143 avgFitness: 4.679557792549405 function: (((10.0 + (5.0 / swrite)) * (10.0 % 0.0)) - ((((((fork + fork) * 1.0) - 3.0) + runqsz) % rchar) % (freemem - runqsz)))
+**********************************
+

@@ -1,0 +1,1 @@
+ Seed: 1458000029 Best tree AveFitness: 3.1815963432649683 Tree Form:(((((((pflt - pgout) + (fork + scall)) / (fork * scall)) - (pgin / 7.0)) + ((((10.0 * 7.0) + (9.0 % freemem)) - (fork - 10.0)) % (freeswap / 5.0))) % (exec - scall)) + (((((10.0 * 7.0) + ((pgin / atch) - (pgfree - 10.0))) - (fork / pgscan)) / (swrite % rchar)) - (0.0 + fork)))\\
